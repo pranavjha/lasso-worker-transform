@@ -1,6 +1,6 @@
 {
   "name": "lasso-worker-transform",
-  "license": "GPL",
+  "license": "MIT",
   "description": "Lasso transform to transform and bundle out web workers",
   "version": "0.0.0",
   "main": "index.js",
