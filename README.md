@@ -1,4 +1,4 @@
-#### lasso-worker-transform
+# lasso-worker-transform
 
 This is WIP.
 Its used to transform files with extension '.worker.js' when included in the transform list of Lasso JS.
